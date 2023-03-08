@@ -1,2 +1,2 @@
 #!/bin/bash
-cp -ur /tmp/my_first_directory/*html /tmp/
+cp -ur /tmp/my_first_directory/*.html /tmp/
