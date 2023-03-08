@@ -1,2 +1,2 @@
 #!/bin/bash
-find /tmp/my_first_directory -name "*.html" -type f -exec cp -n {} /tmp/ \;
+cp -u *.html ../
