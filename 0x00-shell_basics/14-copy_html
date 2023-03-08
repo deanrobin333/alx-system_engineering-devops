@@ -1,2 +1,2 @@
 #!/bin/bash
-rsync -a --update --exclude "*" --include "*.html" ./ ../
+rsync -a --update --exclude "*" --include "*.html" /tmp/my_first_directory /tmp
