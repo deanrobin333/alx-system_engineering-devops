@@ -1,2 +1,2 @@
 #!/bin/bash
-tr "cC" "" | less
+tr -d "cC" | less
