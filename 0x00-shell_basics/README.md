@@ -7,7 +7,7 @@
 - [Tasks](#tasks)
 	- [0. Where am I?](#0)
 	- [1. What’s in there?](#1)
-	- [](#2)
+	- [2. There is no place like home](#2)
 	- [](#3)
 	- [](#4)
 	- [](#5)
@@ -65,10 +65,15 @@
 ---
 #### 2
 ###### [Table of Contents](#table-of-contents)
-**t**
+**2. There is no place like home**
+- Write a script that changes the working directory to the user’s home directory.
+	- You are not allowed to use any shell variables
 
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x00-shell_basics`
+    - File: `2-bring_me_home`
 ---
 #### 3
 ###### [Table of Contents](#table-of-contents)
