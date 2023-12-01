@@ -14,7 +14,7 @@
 	- [6. Welcome](#6)
 	- [7. Betty in my first directory](#7)
 	- [8. Bye bye Betty](#8)
-	- [](#9)
+	- [9. Bye bye My first directory](#9)
 	- [](#10)
 	- [](#11)
 	- [](#12)
@@ -148,10 +148,14 @@
 ---
 #### 9
 ###### [Table of Contents](#table-of-contents)
-**t**
+**9. Bye bye My first directory**
+- Delete the directory `my_first_directory` that is in the `/tmp` directory.
 
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x00-shell_basics`
+    - File: `9-firstdirdeletion`
 ---
 #### 10
 ###### [Table of Contents](#table-of-contents)
