@@ -9,7 +9,7 @@
 	- [1. What’s in there?](#1)
 	- [2. There is no place like home](#2)
 	- [3-listfiles](#3)
-	- [](#4)
+	- [4-listmorefiles](#4)
 	- [](#5)
 	- [](#6)
 	- [](#7)
@@ -88,9 +88,14 @@
 ---
 #### 4
 ###### [Table of Contents](#table-of-contents)
-**t**
+**4. Hidden files**
+- Display current directory contents, including hidden files (starting with .). Use the long format.
 
 <br></br>
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x00-shell_basics`
+    - File: `4-listmorefiles`
 
 ---
 #### 5
