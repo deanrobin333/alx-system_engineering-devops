@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e "$(ls -la .)\n$(ls -la ../)\n$(ls -la /boot)"
+echo -e ".:\n$(ls -la .)\n..:\n$(ls -la ../)\n$(ls -la /boot)"
