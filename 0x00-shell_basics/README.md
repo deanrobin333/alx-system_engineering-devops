@@ -8,7 +8,7 @@
 	- [0. Where am I?](#0)
 	- [1. What’s in there?](#1)
 	- [2. There is no place like home](#2)
-	- [](#3)
+	- [3-listfiles](#3)
 	- [](#4)
 	- [](#5)
 	- [](#6)
@@ -77,10 +77,14 @@
 ---
 #### 3
 ###### [Table of Contents](#table-of-contents)
-**t**
+**3. The long format**
+- Display current directory contents in a long format
 
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x00-shell_basics`
+    - File: `3-listfiles`
 ---
 #### 4
 ###### [Table of Contents](#table-of-contents)
