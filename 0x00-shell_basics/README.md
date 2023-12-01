@@ -11,7 +11,7 @@
 	- [3. The long format](#3)
 	- [4. Hidden files](#4)
 	- [5. I love numbers](#5)
-	- [](#6)
+	- [6. Welcome](#6)
 	- [](#7)
 	- [](#8)
 	- [](#9)
@@ -114,10 +114,14 @@
 ---
 #### 6
 ###### [Table of Contents](#table-of-contents)
-**t**
+**6. Welcome**
+- Create a script that creates a directory named `my_first_directory` in the `/tmp/` directory.
 
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x00-shell_basics`
+    - File: `6-firstdirectory`
 ---
 #### 7
 ###### [Table of Contents](#table-of-contents)
