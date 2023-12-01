@@ -5,7 +5,7 @@
 - [Author Details](#author-details)
 - [Project Description](#project-description)
 - [Tasks](#tasks)
-	- [](#0)
+	- [0. Where am I?](#0)
 	- [](#1)
 	- [](#2)
 	- [](#3)
@@ -43,10 +43,13 @@
 ## Tasks
 #### 0
 ###### [Table of Contents](#table-of-contents)
-**t**
-
+**0. Where am I?**
+- Write a script that prints the absolute path name of the current working directory.
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x00-shell_basics`
+    - File: `0-current_working_directory`
 ---
 #### 1
 ###### [Table of Contents](#table-of-contents)
