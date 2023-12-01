@@ -13,7 +13,7 @@
 	- [5. I love numbers](#5)
 	- [6. Welcome](#6)
 	- [7. Betty in my first directory](#7)
-	- [](#8)
+	- [8. Bye bye Betty](#8)
 	- [](#9)
 	- [](#10)
 	- [](#11)
@@ -136,10 +136,15 @@
 ---
 #### 8
 ###### [Table of Contents](#table-of-contents)
-**t**
+**8. Bye bye Betty**
+- Delete the file `betty`.
+	- The file `betty` is in `/tmp/my_first_directory`
 
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x00-shell_basics`
+    - File: `8-firstdelete`
 ---
 #### 9
 ###### [Table of Contents](#table-of-contents)
