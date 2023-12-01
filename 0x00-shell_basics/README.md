@@ -10,7 +10,7 @@
 	- [2. There is no place like home](#2)
 	- [3-listfiles](#3)
 	- [4-listmorefiles](#4)
-	- [](#5)
+	- [5-listfilesdigitonly](#5)
 	- [](#6)
 	- [](#7)
 	- [](#8)
@@ -100,10 +100,17 @@
 ---
 #### 5
 ###### [Table of Contents](#table-of-contents)
-**t**
+**5. I love numbers**
+- Display current directory contents.
+	- Long format
+	- with user and group IDs displayed numerically
+	- And hidden files (starting with .)
 
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x00-shell_basics`
+    - File: `5-listfilesdigitonly`
 ---
 #### 6
 ###### [Table of Contents](#table-of-contents)
