@@ -16,8 +16,8 @@
 	- [8. Bye bye Betty](#8)
 	- [9. Bye bye My first directory](#9)
 	- [10. Back to the future](#10)
-	- [](#11)
-	- [](#12)
+	- [11. Lists](#11)
+	- [12. File type](#12)
 	- [](#13)
 	- [](#14)
 	- [](#15)
@@ -170,17 +170,25 @@
 ---
 #### 11
 ###### [Table of Contents](#table-of-contents)
-**t**
+**11. Lists**
+- Write a script that lists all files (even ones with names beginning with a period character, which are normally hidden) in the current directory and the parent of the working directory and the `/boot` directory (in this order), in long format.
 
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x00-shell_basics`
+    - File: `11-lists`
 ---
 #### 12
 ###### [Table of Contents](#table-of-contents)
-**t**
+**12. File type**
+- Write a script that prints the type of the file named `iamafile`. The file `iamafile` will be in the `/tmp` directory when we will run your script.
 
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x00-shell_basics`
+    - File: `12-file_type`
 ---
 #### 13
 ###### [Table of Contents](#table-of-contents)
