@@ -12,7 +12,7 @@
 	- [4. Hidden files](#4)
 	- [5. I love numbers](#5)
 	- [6. Welcome](#6)
-	- [](#7)
+	- [7. Betty in my first directory](#7)
 	- [](#8)
 	- [](#9)
 	- [](#10)
@@ -125,10 +125,14 @@
 ---
 #### 7
 ###### [Table of Contents](#table-of-contents)
-**t**
+**7. Betty in my first directory**
+- Move the file `betty` from `/tmp/` to `/tmp/my_first_directory`.
 
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x00-shell_basics`
+    - File: `7-movethatfile`
 ---
 #### 8
 ###### [Table of Contents](#table-of-contents)
