@@ -6,7 +6,7 @@
 - [Project Description](#project-description)
 - [Tasks](#tasks)
 	- [0. Where am I?](#0)
-	- [](#1)
+	- [1. What’s in there?](#1)
 	- [](#2)
 	- [](#3)
 	- [](#4)
@@ -53,9 +53,14 @@
 ---
 #### 1
 ###### [Table of Contents](#table-of-contents)
-**t**
+**1. What’s in there?**
+- Display the contents list of your current directory.
 
 <br></br>
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x00-shell_basics`
+    - File: `1-listit`
 
 ---
 #### 2
