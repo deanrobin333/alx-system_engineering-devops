@@ -18,7 +18,7 @@
 	- [10. Back to the future](#10)
 	- [11. Lists](#11)
 	- [12. File type](#12)
-	- [](#13)
+	- [13. We are symbols, and inhabit symbols](#13)
 	- [](#14)
 	- [](#15)
 	- [](#16)
@@ -192,10 +192,14 @@
 ---
 #### 13
 ###### [Table of Contents](#table-of-contents)
-**t**
+**13. We are symbols, and inhabit symbols**
+- Create a symbolic link to `/bin/ls`, named `__ls__`. The symbolic link should be created in the current working directory.
 
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x00-shell_basics`
+    - File: `13-symbolic_link`
 ---
 #### 14
 ###### [Table of Contents](#table-of-contents)
