@@ -15,7 +15,7 @@
 	- [7. Betty in my first directory](#7)
 	- [8. Bye bye Betty](#8)
 	- [9. Bye bye My first directory](#9)
-	- [](#10)
+	- [10. Back to the future](#10)
 	- [](#11)
 	- [](#12)
 	- [](#13)
@@ -159,10 +159,14 @@
 ---
 #### 10
 ###### [Table of Contents](#table-of-contents)
-**t**
+**10. Back to the future**
+- Write a script that changes the working directory to the previous one.
 
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x00-shell_basics`
+    - File: `10-back`
 ---
 #### 11
 ###### [Table of Contents](#table-of-contents)
