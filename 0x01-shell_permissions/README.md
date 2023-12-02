@@ -15,7 +15,7 @@
 	- [7. Everybody!](#7)
 	- [8. James Bond](#8)
 	- [9. John Doe](#9)
-	- [](#10)
+	- [10. Look in the mirror](#10)
 	- [](#11)
 	- [](#12)
 	- [](#13)
@@ -160,10 +160,17 @@
 ---
 #### 10
 ###### [Table of Contents](#table-of-contents)
-**t**
+**10. Look in the mirror**
+- Write a script that sets the mode of the file `hello` the same as `olleh`’s mode.
+    - The file `hello` will be in the working directory
+    - The file `olleh` will be in the working directory
+	- Note: the mode of `olleh` will not always be 664. Make sure your script works for any mode.
 
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x01-shell_permissions`
+    - File: `10-mirror_permissions`
 ---
 #### 11
 ###### [Table of Contents](#table-of-contents)
