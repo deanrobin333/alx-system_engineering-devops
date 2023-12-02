@@ -7,7 +7,7 @@
 - [Tasks](#tasks)
 	- [0. My name is Betty](#0)
 	- [1. Who am I](#1)
-	- [](#2)
+	- [2. Groups](#2)
 	- [](#3)
 	- [](#4)
 	- [](#5)
@@ -62,10 +62,13 @@
 ---
 #### 2
 ###### [Table of Contents](#table-of-contents)
-**t**
-
+**2. Groups**
+- Write a script that prints all the groups the current user is part of.
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x01-shell_permissions`
+    - File: `2-groups`
 ---
 #### 3
 ###### [Table of Contents](#table-of-contents)
