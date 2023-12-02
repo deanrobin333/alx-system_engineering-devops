@@ -10,7 +10,7 @@
 	- [2. Let's display a file](#2)
 	- [3. What about 2?](#3)
 	- [4. Last lines of a file](#4)
-	- [](#5)
+	- [5. I'd prefer the first ones actually](#5)
 	- [](#6)
 	- [](#7)
 	- [](#8)
@@ -106,13 +106,14 @@
 ---
 #### 5
 ###### [Table of Contents](#table-of-contents)
-**t**
+**5. I'd prefer the first ones actually**
+- Display the first 10 lines of `/etc/passwd`
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: ``
+    - File: `5-firstlines`
 ---
 #### 6
 ###### [Table of Contents](#table-of-contents)
