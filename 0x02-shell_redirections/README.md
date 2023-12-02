@@ -7,7 +7,7 @@
 - [Tasks](#tasks)
 	- [0. Hello World](#0)
 	- [1. Confused smiley](#1)
-	- [](#2)
+	- [2. Let's display a file](#2)
 	- [](#3)
 	- [](#4)
 	- [](#5)
@@ -73,13 +73,14 @@
 ---
 #### 2
 ###### [Table of Contents](#table-of-contents)
-**t**
+**2. Let's display a file**
+- Display the content of the `/etc/passwd` file.
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: 
+    - File: `2-hellofile`
 ---
 #### 3
 ###### [Table of Contents](#table-of-contents)
