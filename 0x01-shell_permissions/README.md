@@ -18,7 +18,7 @@
 	- [10. Look in the mirror](#10)
 	- [11. Directories](#11)
 	- [12. More directories](#12)
-	- [](#13)
+	- [13. Change group](#13)
 	- [](#14)
 	- [](#15)
 	- [](#16)
@@ -197,7 +197,9 @@
 ---
 #### 13
 ###### [Table of Contents](#table-of-contents)
-**t**
+**13. Change group**
+- Write a script that changes the group owner to `school` for the file `hello`
+    - The file `hello` will be in the working directory
 
 <br></br>
 
