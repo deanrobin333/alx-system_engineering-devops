@@ -1,5 +1,4 @@
-# Project 
-## **ALX SYSTEM ENGINNERING DEVOPS**
+# **ALX SYSTEM ENGINNERING DEVOPS**
 ---
 ## Table of Contents
 - [Author Details](#author-details)
