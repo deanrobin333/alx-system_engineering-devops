@@ -8,7 +8,7 @@
 	- [0. Hello World](#0)
 	- [1. Confused smiley](#1)
 	- [2. Let's display a file](#2)
-	- [](#3)
+	- [3. What about 2?](#3)
 	- [](#4)
 	- [](#5)
 	- [](#6)
@@ -84,13 +84,14 @@
 ---
 #### 3
 ###### [Table of Contents](#table-of-contents)
-**t**
+**3. What about 2?**
+- Display the content of `/etc/passwd` and `/etc/hosts`
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: 
+    - File: `3-twofiles`
 ---
 #### 4
 ###### [Table of Contents](#table-of-contents)
@@ -100,7 +101,7 @@
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: 
+    - File: ``
 ---
 #### 5
 ###### [Table of Contents](#table-of-contents)
@@ -110,7 +111,7 @@
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: 
+    - File: ``
 ---
 #### 6
 ###### [Table of Contents](#table-of-contents)
@@ -120,7 +121,7 @@
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: 
+    - File: ``
 ---
 #### 7
 ###### [Table of Contents](#table-of-contents)
@@ -130,7 +131,7 @@
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: 
+    - File: ``
 ---
 #### 8
 ###### [Table of Contents](#table-of-contents)
@@ -140,7 +141,7 @@
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: 
+    - File: ``
 ---
 #### 9
 ###### [Table of Contents](#table-of-contents)
@@ -150,7 +151,7 @@
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: 
+    - File: ``
 ---
 #### 10
 ###### [Table of Contents](#table-of-contents)
@@ -160,7 +161,7 @@
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: 
+    - File: ``
 ---
 #### 11
 ###### [Table of Contents](#table-of-contents)
@@ -170,7 +171,7 @@
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: 
+    - File: ``
 ---
 #### 12
 ###### [Table of Contents](#table-of-contents)
@@ -180,7 +181,7 @@
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: 
+    - File: ``
 ---
 #### 13
 ###### [Table of Contents](#table-of-contents)
@@ -190,7 +191,7 @@
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: 
+    - File: ``
 ---
 #### 14
 ###### [Table of Contents](#table-of-contents)
@@ -200,7 +201,7 @@
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: 
+    - File: ``
 ---
 #### 15
 ###### [Table of Contents](#table-of-contents)
@@ -210,7 +211,7 @@
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: 
+    - File: ``
 ---
 #### 16
 ###### [Table of Contents](#table-of-contents)
@@ -220,7 +221,7 @@
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: 
+    - File: ``
 ---
 #### 17
 ###### [Table of Contents](#table-of-contents)
@@ -230,7 +231,7 @@
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: 
+    - File: ``
 ---
 #### 18
 ###### [Table of Contents](#table-of-contents)
@@ -240,7 +241,7 @@
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: 
+    - File: ``
 ---
 #### 19
 ###### [Table of Contents](#table-of-contents)
@@ -250,7 +251,7 @@
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: 
+    - File: ``
 ---
 #### 20
 ###### [Table of Contents](#table-of-contents)
@@ -260,7 +261,7 @@
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: 
+    - File: ``
 ---
 #### 21
 ###### [Table of Contents](#table-of-contents)
@@ -270,7 +271,7 @@
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: 
+    - File: ``
 ---
 #### 22
 ###### [Table of Contents](#table-of-contents)
@@ -280,7 +281,7 @@
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: 
+    - File: ``
 ---
 #### 23
 ###### [Table of Contents](#table-of-contents)
@@ -290,7 +291,7 @@
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: 
+    - File: ``
 ---
 #### 24
 ###### [Table of Contents](#table-of-contents)
@@ -300,7 +301,7 @@
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: 
+    - File: ``
 ---
 #### 25
 ###### [Table of Contents](#table-of-contents)
@@ -310,7 +311,7 @@
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: 
+    - File: ``
 ---
 #### 26
 ###### [Table of Contents](#table-of-contents)
@@ -320,7 +321,7 @@
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: 
+    - File: ``
 ---
 
 
