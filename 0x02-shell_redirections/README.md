@@ -6,7 +6,7 @@
 - [Project Description](#project-description)
 - [Tasks](#tasks)
 	- [0. Hello World](#0)
-	- [](#1)
+	- [1. Confused smiley](#1)
 	- [](#2)
 	- [](#3)
 	- [](#4)
@@ -62,13 +62,14 @@
 ---
 #### 1
 ###### [Table of Contents](#table-of-contents)
-**t**
+**1. Confused smiley**
+- Write a script that displays a confused smiley `"(Ôo)'`.
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: 
+    - File: `1-confused_smiley`
 ---
 #### 2
 ###### [Table of Contents](#table-of-contents)
