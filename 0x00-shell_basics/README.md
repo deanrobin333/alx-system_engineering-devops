@@ -44,7 +44,7 @@
 #### 0
 ###### [Table of Contents](#table-of-contents)
 **0. Where am I?**
-- Write a script that prints the absolute path name of the current working directory.
+- Write a script that prints the absolute path name of the current working directory..
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
