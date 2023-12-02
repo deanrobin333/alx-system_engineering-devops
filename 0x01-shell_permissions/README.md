@@ -17,7 +17,7 @@
 	- [9. John Doe](#9)
 	- [10. Look in the mirror](#10)
 	- [11. Directories](#11)
-	- [](#12)
+	- [12. More directories](#12)
 	- [](#13)
 	- [](#14)
 	- [](#15)
@@ -186,10 +186,14 @@
 ---
 #### 12
 ###### [Table of Contents](#table-of-contents)
-**t**
+**12. More directories**
+- Create a script that creates a directory called `my_dir` with permissions 751 in the working directory.
 
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x01-shell_permissions`
+    - File: `12-directory_permissions`
 ---
 #### 13
 ###### [Table of Contents](#table-of-contents)
