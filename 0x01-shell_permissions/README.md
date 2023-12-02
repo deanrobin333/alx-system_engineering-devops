@@ -8,7 +8,7 @@
 	- [0. My name is Betty](#0)
 	- [1. Who am I](#1)
 	- [2. Groups](#2)
-	- [](#3)
+	- [3. New owner](#3)
 	- [](#4)
 	- [](#5)
 	- [](#6)
@@ -72,10 +72,14 @@
 ---
 #### 3
 ###### [Table of Contents](#table-of-contents)
-**t**
+**3. New owner**
+- Write a script that changes the owner of the file `hello` to the user `betty`.
 
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x01-shell_permissions`
+    - File: `3-new_owner`
 ---
 #### 4
 ###### [Table of Contents](#table-of-contents)
