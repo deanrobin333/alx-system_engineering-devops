@@ -20,7 +20,7 @@
 	- [12. More directories](#12)
 	- [13. Change group](#13)
 	- [14. Owner and group](#14)
-	- [](#15)
+	- [15. Symbolic links](#15)
 	- [](#16)
 	- [](#17)
 ---
@@ -220,10 +220,16 @@
 ---
 #### 15
 ###### [Table of Contents](#table-of-contents)
-**t**
+**15. Symbolic links**
+- Write a script that changes the owner and the group owner of `_hello` to `vincent` and `staff` respectively.
+    - The file `_hello` is in the working directory
+    - The file `_hello` is a symbolic link
 
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x01-shell_permissions`
+    - File: `101-symbolic_link_permissions`
 ---
 #### 16
 ###### [Table of Contents](#table-of-contents)
