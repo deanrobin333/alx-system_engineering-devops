@@ -19,7 +19,7 @@
 	- [11. Directories](#11)
 	- [12. More directories](#12)
 	- [13. Change group](#13)
-	- [](#14)
+	- [14. Owner and group](#14)
 	- [](#15)
 	- [](#16)
 	- [](#17)
@@ -202,14 +202,21 @@
     - The file `hello` will be in the working directory
 
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x01-shell_permissions`
+    - File: `13-change_group`
 ---
 #### 14
 ###### [Table of Contents](#table-of-contents)
-**t**
+**14. Owner and group**
+- Write a script that changes the owner to `vincent` and the group owner to `staff` for all the files and directories in the working directory.
 
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x01-shell_permissions`
+    - File: `100-change_owner_and_group`
 ---
 #### 15
 ###### [Table of Contents](#table-of-contents)
