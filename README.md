@@ -3,21 +3,17 @@
 ---
 ## Table of Contents
 - [Author Details](#author-details)
-- [Project Description](#project-description)
 - [Projects](#tasks)
-	- [0x00 shell basics](#0)
+	- [1. 0x00 shell basics](#0)
 	- [](#1)
 ---
 ## Author Details
 - *Dean Robin Otsyeno - deanrobin777@gmail.com*
 
-## Project Description
-
-
 ## Project
 #### 0
 ###### [Table of Contents](#table-of-contents)
-[**0x00 shell basics**](./0x00-shell_basics)
+###[0x00 shell basics](./0x00-shell_basics)
 ### General
 
 - What does RTFM mean?
