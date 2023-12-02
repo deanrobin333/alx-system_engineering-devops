@@ -21,8 +21,8 @@
 	- [13. Change group](#13)
 	- [14. Owner and group](#14)
 	- [15. Symbolic links](#15)
-	- [](#16)
-	- [](#17)
+	- [16. If only](#16)
+	- [17. Star Wars](#17)
 ---
 ## Author Details
 - *Dean Robin Otsyeno - deanrobin777@gmail.com*
@@ -233,17 +233,26 @@
 ---
 #### 16
 ###### [Table of Contents](#table-of-contents)
-**t**
+**16. If only**
+- Write a script that changes the owner of the file `hello` to `betty` only if it is owned by the user `guillaume`.
+    - The file `hello` will be in the working directory
 
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x01-shell_permissions`
+    - File: `102-if_only`
 ---
 #### 17
 ###### [Table of Contents](#table-of-contents)
-**t**
+**17. Star Wars**
+- Write a script that will play the StarWars IV episode in the terminal.
 
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x01-shell_permissions`
+    - File: `103-Star_Wars`
 ---
 
 
