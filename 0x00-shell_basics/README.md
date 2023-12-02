@@ -24,7 +24,7 @@
 	- [16. Clean Emacs](#16)
 	- [17. Tree](#17)
 	- [18. Life is a series of commas, not periods](#18)
-	- [](#19)
+	- [19. File type: School](#19)
 ---
 ## Author Details
 - *Dean Robin Otsyeno - deanrobin777@gmail.com*
@@ -267,10 +267,14 @@
 ---
 #### 19
 ###### [Table of Contents](#table-of-contents)
-**t**
+**19. File type: School**
+- Create a magic file `school.mgc` that can be used with the command `file` to detect `School` data files. `School` data files always contain the string `SCHOOL` at offset 0.
 
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x00-shell_basics`
+    - File: `school.mgc`
 ---
 
 <br></br>
