@@ -12,7 +12,7 @@
 	- [4. Empty!](#4)
 	- [5. Execute](#5)
 	- [6. Multiple permissions](#6)
-	- [](#7)
+	- [7. Everybody!](#7)
 	- [](#8)
 	- [](#9)
 	- [](#10)
@@ -116,10 +116,16 @@
 ---
 #### 7
 ###### [Table of Contents](#table-of-contents)
-**t**
+**7. Everybody!**
+- Write a script that adds execution permission to the owner, the group owner and the other users, to the file `hello`
+    - The file `hello` will be in the working directory
+    - You are not allowed to use commas for this script
 
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x01-shell_permissions`
+    - File: `7-everybody`
 ---
 #### 8
 ###### [Table of Contents](#table-of-contents)
