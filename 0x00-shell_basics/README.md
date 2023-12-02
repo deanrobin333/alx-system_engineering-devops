@@ -19,8 +19,8 @@
 	- [11. Lists](#11)
 	- [12. File type](#12)
 	- [13. We are symbols, and inhabit symbols](#13)
-	- [](#14)
-	- [](#15)
+	- [14. Copy HTML files](#14)
+	- [15. Let’s move](#15)
 	- [](#16)
 	- [](#17)
 	- [](#18)
@@ -203,17 +203,27 @@
 ---
 #### 14
 ###### [Table of Contents](#table-of-contents)
-**t**
+**14. Copy HTML files**
+- Create a script that copies all the HTML files from the current working directory to the parent of the working directory, but only copy files that did not exist in the parent of the working directory or were newer than the versions in the parent of the working directory.
+- You can consider that all HTML files have the extension `.html`
 
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x00-shell_basics`
+    - File: `14-copy_html`
 ---
 #### 15
 ###### [Table of Contents](#table-of-contents)
-**t**
+**15. Let’s move**
+- Create a script that moves all files beginning with an uppercase letter to the directory `/tmp/u`.
+- You can assume that the directory `/tmp/u` will exist when we will run your script
 
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x00-shell_basics`
+    - File: `100-lets_move`
 ---
 #### 16
 ###### [Table of Contents](#table-of-contents)
