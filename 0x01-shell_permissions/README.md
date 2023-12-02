@@ -11,7 +11,7 @@
 	- [3. New owner](#3)
 	- [4. Empty!](#4)
 	- [5. Execute](#5)
-	- [](#6)
+	- [6. Multiple permissions](#6)
 	- [](#7)
 	- [](#8)
 	- [](#9)
@@ -104,10 +104,15 @@
 ---
 #### 6
 ###### [Table of Contents](#table-of-contents)
-**t**
+**6. Multiple permissions**
+- Write a script that adds execute permission to the owner and the group owner, and read permission to other users, to the file `hello`.    
+    - The file `hello` will be in the working directory
 
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x01-shell_permissions`
+    - File: `6-multiple_permissions`
 ---
 #### 7
 ###### [Table of Contents](#table-of-contents)
