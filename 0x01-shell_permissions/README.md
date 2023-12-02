@@ -9,8 +9,8 @@
 	- [1. Who am I](#1)
 	- [2. Groups](#2)
 	- [3. New owner](#3)
-	- [](#4)
-	- [](#5)
+	- [4. Empty!](#4)
+	- [5. Execute](#5)
 	- [](#6)
 	- [](#7)
 	- [](#8)
@@ -83,17 +83,24 @@
 ---
 #### 4
 ###### [Table of Contents](#table-of-contents)
-**t**
-
+**4. Empty!**
+- Write a script that creates an empty file called `hello`.
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x01-shell_permissions`
+    - File: `4-empty`
 ---
 #### 5
 ###### [Table of Contents](#table-of-contents)
-**t**
-
+**5. Execute**
+- Write a script that adds execute permission to the owner of the file `hello`.
+	- The file `hello` will be in the working directory
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x01-shell_permissions`
+    - File: `5-execute`
 ---
 #### 6
 ###### [Table of Contents](#table-of-contents)
