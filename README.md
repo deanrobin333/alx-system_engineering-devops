@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Author Details](#author-details)
 - [Projects](#tasks)
-	- [1. 0x00 shell basics](#0)
+	- [1. 0x00. Shell, basics](#0)
 	- [](#1)
 ---
 ## Author Details
@@ -12,7 +12,7 @@
 ## Project
 #### 0
 ###### [Table of Contents](#table-of-contents)
-### [1. 0x00 shell basics](./0x00-shell_basics)
+### [1. 0x00. Shell, basics](./0x00-shell_basics)
 ### General
 
 - What does RTFM mean?
