@@ -3,18 +3,18 @@
 ## Table of Contents
 - [Author Details](#author-details)
 - [Projects](#tasks)
-	- [1. 0x00. Shell, basics](#1)
-	- [2. 0x01. Shell, permissions](#2)
-	- [3. 0x02. Shell, I/O Redirections and filters](#3)
-	- [4. ](#4)
+	- [0. 0x00. Shell, basics](#0)
+	- [1. 0x01. Shell, permissions](#1)
+	- [2. 0x02. Shell, I/O Redirections and filters](#2)
+	- [3. ](#3)
 ---
 ## Author Details
 - *Dean Robin Otsyeno - deanrobin777@gmail.com*
 
 ## Project
-#### 1
+#### 0
 ###### [Table of Contents](#table-of-contents)
-### [1. 0x00. Shell, basics](./0x00-shell_basics)
+### [0. 0x00. Shell, basics](./0x00-shell_basics)
 ### General
 
 - What does RTFM mean?
@@ -77,9 +77,9 @@
 
 - What does `LTS` mean?
 ---
-#### 2
+#### 1
 ###### [Table of Contents](#table-of-contents)
-### [2. 0x01. Shell, permissions](./0x01-shell_permissions)
+### [1. 0x01. Shell, permissions](./0x01-shell_permissions)
 ### Permissions
 
 - What do the commands `chmod`, `sudo`, `su`, `chown`, `chgrp` do
@@ -99,9 +99,9 @@
 - How to print the effective userid
 
 ---
-#### 3
+#### 2
 ###### [Table of Contents](#table-of-contents)
-### [3. 0x02. Shell, I/O Redirections and filters](./0x02-shell_redirections)
+### [2. 0x02. Shell, I/O Redirections and filters](./0x02-shell_redirections)
 ### Shell, I/O Redirection
 
 - What do the commands `head`, `tail`, `find`, `wc`, `sort`, `uniq`, `grep`, `tr` do
@@ -125,9 +125,9 @@
 - What is the `/etc/shadow` file and what is its format
 
 ---
-#### 4
+#### 3
 ###### [Table of Contents](#table-of-contents)
-### [4. ](./)
+### [3. ](./)
 
 ---
 
