@@ -16,7 +16,7 @@
 	- [8. James Bond](#8)
 	- [9. John Doe](#9)
 	- [10. Look in the mirror](#10)
-	- [](#11)
+	- [11. Directories](#11)
 	- [](#12)
 	- [](#13)
 	- [](#14)
@@ -174,10 +174,15 @@
 ---
 #### 11
 ###### [Table of Contents](#table-of-contents)
-**t**
+**11. Directories**
+- Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
+- Regular files should not be changed.
 
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x01-shell_permissions`
+    - File: `11-directories_permissions`
 ---
 #### 12
 ###### [Table of Contents](#table-of-contents)
