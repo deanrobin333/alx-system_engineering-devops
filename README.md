@@ -3,14 +3,14 @@
 ## Table of Contents
 - [Author Details](#author-details)
 - [Projects](#tasks)
-	- [1. 0x00. Shell, basics](#0)
-	- [](#1)
+	- [1. 0x00. Shell, basics](#1)
+	- [](#2)
 ---
 ## Author Details
 - *Dean Robin Otsyeno - deanrobin777@gmail.com*
 
 ## Project
-#### 0
+#### 1
 ###### [Table of Contents](#table-of-contents)
 ### [1. 0x00. Shell, basics](./0x00-shell_basics)
 ### General
@@ -75,7 +75,7 @@
 
 - What does `LTS` mean?
 ---
-#### 1
+#### 2
 ###### [Table of Contents](#table-of-contents)
 **t**
 
