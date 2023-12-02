@@ -5,8 +5,8 @@
 - [Author Details](#author-details)
 - [Project Description](#project-description)
 - [Tasks](#tasks)
-	- [](#0)
-	- [](#1)
+	- [0. My name is Betty](#0)
+	- [1. Who am I](#1)
 	- [](#2)
 	- [](#3)
 	- [](#4)
@@ -52,10 +52,13 @@
 ---
 #### 1
 ###### [Table of Contents](#table-of-contents)
-**t**
-
+**1. Who am I**
+- Write a script that prints the effective username of the current user.
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x01-shell_permissions`
+    - File: `1-who_am_i`
 ---
 #### 2
 ###### [Table of Contents](#table-of-contents)
