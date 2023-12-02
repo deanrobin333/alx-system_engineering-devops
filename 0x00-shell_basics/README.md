@@ -21,7 +21,7 @@
 	- [13. We are symbols, and inhabit symbols](#13)
 	- [14. Copy HTML files](#14)
 	- [15. Let’s move](#15)
-	- [](#16)
+	- [16. Clean Emacs](#16)
 	- [](#17)
 	- [](#18)
 	- [](#19)
@@ -227,10 +227,14 @@
 ---
 #### 16
 ###### [Table of Contents](#table-of-contents)
-**t**
+**16. Clean Emacs**
+- Create a script that deletes all files in the current working directory that end with the character `~`.
 
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x00-shell_basics`
+    - File: `101-clean_emacs`
 ---
 #### 17
 ###### [Table of Contents](#table-of-contents)
