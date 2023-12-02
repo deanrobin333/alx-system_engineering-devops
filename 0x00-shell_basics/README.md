@@ -22,7 +22,7 @@
 	- [14. Copy HTML files](#14)
 	- [15. Let’s move](#15)
 	- [16. Clean Emacs](#16)
-	- [](#17)
+	- [17. Tree](#17)
 	- [](#18)
 	- [](#19)
 ---
@@ -238,10 +238,15 @@
 ---
 #### 17
 ###### [Table of Contents](#table-of-contents)
-**t**
+**17. Tree**
+- Create a script that creates the directories `welcome/`, `welcome/to/` and `welcome/to/school` in the current directory.
+- You are only allowed to use two spaces (and lines) in your script, not more.
 
 <br></br>
-
+- Repo
+    - GitHub repository: `alx-system_engineering-devops`
+    - Directory: `0x00-shell_basics`
+    - File: `102-tree`
 ---
 #### 18
 ###### [Table of Contents](#table-of-contents)
