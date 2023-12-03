@@ -6,7 +6,7 @@
 - [Project Description](#project-description)
 - [Tasks](#tasks)
 	- [0. <o>](#0)
-	- [](#1)
+	- [1. Hello you](#1)
 	- [](#2)
 	- [](#3)
 	- [](#4)
@@ -56,13 +56,14 @@
 ---
 #### 1
 ###### [Table of Contents](#table-of-contents)
-**t**
+**1. Hello you**
+- Create a script that prints `hello user`, where user is the current Linux user.
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x03-shell_variables_expansions`
-    - File: ``
+    - File: `1-hello_you`
 ---
 #### 2
 ###### [Table of Contents](#table-of-contents)
