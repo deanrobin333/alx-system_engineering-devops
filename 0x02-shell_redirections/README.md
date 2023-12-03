@@ -11,8 +11,8 @@
 	- [3. What about 2?](#3)
 	- [4. Last lines of a file](#4)
 	- [5. I'd prefer the first ones actually](#5)
-	- [](#6)
-	- [](#7)
+	- [6. Line #2](#6)
+	- [7. It is a good file that cuts iron without making a noise](#7)
 	- [](#8)
 	- [](#9)
 	- [](#10)
@@ -117,23 +117,27 @@
 ---
 #### 6
 ###### [Table of Contents](#table-of-contents)
-**t**
+**6. Line #2**
+- Write a script that displays the third line of the file `iacta`.
+    - The file `iacta` will be in the working directory
+    - You’re not allowed to use `sed`
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: ``
+    - File: `6-third_line`
 ---
 #### 7
 ###### [Table of Contents](#table-of-contents)
-**t**
+**7. It is a good file that cuts iron without making a noise**
+- Write a shell script that creates a file named exactly `\*\\'"Best School"\'\\*$\?\*\*\*\*\*:)` containing the text `Best School` ending by a new line.
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: ``
+    - File: `7-file`
 ---
 #### 8
 ###### [Table of Contents](#table-of-contents)
