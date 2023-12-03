@@ -12,7 +12,7 @@
 	- [4. Global variables](#4)
 	- [5. Local variables](#5)
 	- [6. Local variable](#6)
-	- [](#7)
+	- [7. Global variable](#7)
 	- [](#8)
 	- [](#9)
 	- [](#10)
@@ -124,13 +124,16 @@
 ---
 #### 7
 ###### [Table of Contents](#table-of-contents)
-**t**
+**7. Global variable**
+- Create a script that creates a new global variable.    
+    - Name: `BEST`
+    - Value: `School`
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x03-shell_variables_expansions`
-    - File: ``
+    - File: `7-create_global_variable`
 ---
 #### 8
 ###### [Table of Contents](#table-of-contents)
