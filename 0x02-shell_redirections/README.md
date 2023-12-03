@@ -30,7 +30,7 @@
 	- [22. DJ Cut Killer](#22)
 	- [23. Empty casks make the most noise](#23)
 	- [24. A gif is worth ten thousand words](#24)
-	- [](#25)
+	- [25. Acrostic](#25)
 	- [](#26)
 ---
 ## Author Details
@@ -352,13 +352,18 @@
 ---
 #### 25
 ###### [Table of Contents](#table-of-contents)
-**t**
+**25. Acrostic**
+- An acrostic is a poem (or other form of writing) in which the first letter (or syllable, or word) of each line (or paragraph, or other recurring feature in the text) spells out a word, message or the alphabet. The word comes from the French acrostiche from post-classical Latin acrostichis). As a form of constrained writing, an acrostic can be used as a mnemonic device to aid memory retrieval. [Read more](https://en.wikipedia.org/wiki/Acrostic).
+
+- Create a script that decodes acrostics that use the first letter of each line.
+    - The ‘decoded’ message has to end with a new line
+    - You are not allowed to use `grep`, `egrep`, `fgrep` or `rgrep`
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: ``
+    - File: `102-acrostic`
 ---
 #### 26
 ###### [Table of Contents](#table-of-contents)
