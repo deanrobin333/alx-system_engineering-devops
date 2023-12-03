@@ -22,7 +22,7 @@
 	- [14. It must be in that file](#14)
 	- [15. Count that word](#15)
 	- [16. What's next?](#16)
-	- [](#17)
+	- [17. I hate bins](#17)
 	- [](#18)
 	- [](#19)
 	- [](#20)
@@ -250,13 +250,14 @@
 ---
 #### 17
 ###### [Table of Contents](#table-of-contents)
-**t**
+**17. I hate bins**
+- Display all the lines in the file `/etc/passwd` that do not contain the pattern “bin”.
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: ``
+    - File: `17-hidethisword`
 ---
 #### 18
 ###### [Table of Contents](#table-of-contents)
