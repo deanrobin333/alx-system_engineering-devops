@@ -8,7 +8,7 @@
 	- [0. <o>](#0)
 	- [1. Hello you](#1)
 	- [2. The path to success is to take massive, determined action](#2)
-	- [](#3)
+	- [3. If the path be beautiful, let us not ask where it leads](#3)
 	- [](#4)
 	- [](#5)
 	- [](#6)
@@ -78,13 +78,14 @@
 ---
 #### 3
 ###### [Table of Contents](#table-of-contents)
-**t**
+**3. If the path be beautiful, let us not ask where it leads**
+- Create a script that counts the number of directories in the `PATH`.
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x03-shell_variables_expansions`
-    - File: ``
+    - File: `3-paths`
 ---
 #### 4
 ###### [Table of Contents](#table-of-contents)
