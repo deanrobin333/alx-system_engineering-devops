@@ -18,7 +18,7 @@
 	- [10. No more javascript](#10)
 	- [11. Don't just count your directories, make your directories count](#11)
 	- [12. What’s new](#12)
-	- [](#13)
+	- [13. Being unique is better than being perfect](#13)
 	- [](#14)
 	- [](#15)
 	- [](#16)
@@ -203,13 +203,17 @@
 ---
 #### 13
 ###### [Table of Contents](#table-of-contents)
-**t**
+**13. Being unique is better than being perfect**
+- Create a script that takes a list of words as input and prints only words that appear exactly once.
+    - Input format: One line, one word
+    - Output format: One line, one word
+    - Words should be sorted
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: ``
+    - File: `13-unique`
 ---
 #### 14
 ###### [Table of Contents](#table-of-contents)
