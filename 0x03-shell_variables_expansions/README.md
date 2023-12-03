@@ -11,7 +11,7 @@
 	- [3. If the path be beautiful, let us not ask where it leads](#3)
 	- [4. Global variables](#4)
 	- [5. Local variables](#5)
-	- [](#6)
+	- [6. Local variable](#6)
 	- [](#7)
 	- [](#8)
 	- [](#9)
@@ -111,13 +111,16 @@
 ---
 #### 6
 ###### [Table of Contents](#table-of-contents)
-**t**
+**6. Local variable**
+- Create a script that creates a new local variable.
+    - Name: `BEST`
+    - Value: `School`
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x03-shell_variables_expansions`
-    - File: ``
+    - File: `6-create_local_variable`
 ---
 #### 7
 ###### [Table of Contents](#table-of-contents)
