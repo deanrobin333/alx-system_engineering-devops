@@ -23,8 +23,8 @@
 	- [15. Count that word](#15)
 	- [16. What's next?](#16)
 	- [17. I hate bins](#17)
-	- [](#18)
-	- [](#19)
+	- [18. Letters only please](#18)
+	- [19. A to Z](#19)
 	- [](#20)
 	- [](#21)
 	- [](#22)
@@ -261,23 +261,26 @@
 ---
 #### 18
 ###### [Table of Contents](#table-of-contents)
-**t**
+**18. Letters only please**
+- Display all lines of the file `/etc/ssh/sshd_config` starting with a letter.
+    - include capital letters as well
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: ``
+    - File: `18-letteronly`
 ---
 #### 19
 ###### [Table of Contents](#table-of-contents)
-**t**
+**19. A to Z**
+- Replace all characters `A` and `c` from input to `Z` and `e` respectively.
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: ``
+    - File: `19-AZ`
 ---
 #### 20
 ###### [Table of Contents](#table-of-contents)
