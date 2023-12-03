@@ -25,7 +25,7 @@
 	- [17. I hate bins](#17)
 	- [18. Letters only please](#18)
 	- [19. A to Z](#19)
-	- [](#20)
+	- [20. Without C, you would live in hiago](#20)
 	- [](#21)
 	- [](#22)
 	- [](#23)
@@ -284,13 +284,14 @@
 ---
 #### 20
 ###### [Table of Contents](#table-of-contents)
-**t**
+**20. Without C, you would live in hiago**
+- Create a script that removes all letters `c` and `C` from input.
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: ``
+    - File: `20-hiago`
 ---
 #### 21
 ###### [Table of Contents](#table-of-contents)
