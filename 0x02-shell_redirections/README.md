@@ -28,7 +28,7 @@
 	- [20. Without C, you would live in hiago](#20)
 	- [21. esreveR](#21)
 	- [22. DJ Cut Killer](#22)
-	- [](#23)
+	- [23. Empty casks make the most noise](#23)
 	- [](#24)
 	- [](#25)
 	- [](#26)
@@ -318,13 +318,19 @@
 ---
 #### 23
 ###### [Table of Contents](#table-of-contents)
-**t**
+**23. Empty casks make the most noise**
+- Write a command that finds all empty files and directories in the current directory and all sub-directories.
+    - Only the names of the files and directories should be displayed (not the entire path)
+    - Hidden files should be listed
+    - One file name per line
+    - The listing should end with a new line
+    - You are not allowed to use `basename`, `grep`, `egrep`, `fgrep` or `rgrep`
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: ``
+    - File: `100-empty_casks`
 ---
 #### 24
 ###### [Table of Contents](#table-of-contents)
