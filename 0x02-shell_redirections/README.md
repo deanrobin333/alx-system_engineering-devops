@@ -19,7 +19,7 @@
 	- [11. Don't just count your directories, make your directories count](#11)
 	- [12. What’s new](#12)
 	- [13. Being unique is better than being perfect](#13)
-	- [](#14)
+	- [14. It must be in that file](#14)
 	- [](#15)
 	- [](#16)
 	- [](#17)
@@ -217,13 +217,14 @@
 ---
 #### 14
 ###### [Table of Contents](#table-of-contents)
-**t**
+**14. It must be in that file**
+- Display lines containing the pattern “root” from the file `/etc/passwd`
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: ``
+    - File: `14-findthatword`
 ---
 #### 15
 ###### [Table of Contents](#table-of-contents)
