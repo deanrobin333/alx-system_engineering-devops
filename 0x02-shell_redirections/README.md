@@ -15,7 +15,7 @@
 	- [7. It is a good file that cuts iron without making a noise](#7)
 	- [8. Save current state of directory](#8)
 	- [9. Duplicate last line](#9)
-	- [](#10)
+	- [10. No more javascript](#10)
 	- [](#11)
 	- [](#12)
 	- [](#13)
@@ -164,13 +164,14 @@
 ---
 #### 10
 ###### [Table of Contents](#table-of-contents)
-**t**
+**10. No more javascript**
+- Write a script that deletes all the regular files (not the directories) with a `.js` extension that are present in the current directory and all its subfolders.
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: ``
+    - File: `10-no_more_js`
 ---
 #### 11
 ###### [Table of Contents](#table-of-contents)
