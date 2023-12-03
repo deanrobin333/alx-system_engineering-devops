@@ -7,7 +7,7 @@
 - [Tasks](#tasks)
 	- [0. <o>](#0)
 	- [1. Hello you](#1)
-	- [](#2)
+	- [2. The path to success is to take massive, determined action](#2)
 	- [](#3)
 	- [](#4)
 	- [](#5)
@@ -67,13 +67,14 @@
 ---
 #### 2
 ###### [Table of Contents](#table-of-contents)
-**t**
+**2. The path to success is to take massive, determined action**
+- Add `/action` to the `PATH`. `/action` should be the last directory the shell looks into when looking for a program.
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x03-shell_variables_expansions`
-    - File: ``
+    - File: `2-path`
 ---
 #### 3
 ###### [Table of Contents](#table-of-contents)
