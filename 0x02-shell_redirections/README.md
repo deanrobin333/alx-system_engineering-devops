@@ -21,7 +21,7 @@
 	- [13. Being unique is better than being perfect](#13)
 	- [14. It must be in that file](#14)
 	- [15. Count that word](#15)
-	- [](#16)
+	- [16. What's next?](#16)
 	- [](#17)
 	- [](#18)
 	- [](#19)
@@ -239,13 +239,14 @@
 ---
 #### 16
 ###### [Table of Contents](#table-of-contents)
-**t**
+**16. What's next?**
+- Display lines containing the pattern “root” and 3 lines after them in the file `/etc/passwd`.
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: ``
+    - File: `16-whatsnext`
 ---
 #### 17
 ###### [Table of Contents](#table-of-contents)
