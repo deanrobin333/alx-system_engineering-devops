@@ -27,7 +27,7 @@
 	- [19. A to Z](#19)
 	- [20. Without C, you would live in hiago](#20)
 	- [21. esreveR](#21)
-	- [](#22)
+	- [22. DJ Cut Killer](#22)
 	- [](#23)
 	- [](#24)
 	- [](#25)
@@ -306,13 +306,15 @@
 ---
 #### 22
 ###### [Table of Contents](#table-of-contents)
-**t**
+**22. DJ Cut Killer**
+- Write a script that displays all users and their home directories, sorted by users.
+    - Based on the the `/etc/passwd` file
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: ``
+    - File: `22-users_and_homes`
 ---
 #### 23
 ###### [Table of Contents](#table-of-contents)
