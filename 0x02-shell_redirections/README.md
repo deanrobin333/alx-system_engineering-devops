@@ -13,7 +13,7 @@
 	- [5. I'd prefer the first ones actually](#5)
 	- [6. Line #2](#6)
 	- [7. It is a good file that cuts iron without making a noise](#7)
-	- [](#8)
+	- [8. Save current state of directory](#8)
 	- [](#9)
 	- [](#10)
 	- [](#11)
@@ -141,13 +141,14 @@
 ---
 #### 8
 ###### [Table of Contents](#table-of-contents)
-**t**
+**8. Save current state of directory**
+- Write a script that writes into the file `ls_cwd_content` the result of the command `ls -la`. If the file `ls_cwd_content` already exists, it should be overwritten. If the file `ls_cwd_content` does not exist, create it.
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: ``
+    - File: `8-cwd_state`
 ---
 #### 9
 ###### [Table of Contents](#table-of-contents)
