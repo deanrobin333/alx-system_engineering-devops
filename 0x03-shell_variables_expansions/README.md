@@ -13,8 +13,8 @@
 	- [5. Local variables](#5)
 	- [6. Local variable](#6)
 	- [7. Global variable](#7)
-	- [](#8)
-	- [](#9)
+	- [8. Every addition to true knowledge is an addition to human power](#8)
+	- [9. Divide and rule](#9)
 	- [](#10)
 	- [](#11)
 	- [](#12)
@@ -137,23 +137,26 @@
 ---
 #### 8
 ###### [Table of Contents](#table-of-contents)
-**t**
+**8. Every addition to true knowledge is an addition to human power**
+- Write a script that prints the result of the addition of 128 with the value stored in the environment variable `TRUEKNOWLEDGE`, followed by a new line.
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x03-shell_variables_expansions`
-    - File: ``
+    - File: `8-true_knowledge`
 ---
 #### 9
 ###### [Table of Contents](#table-of-contents)
-**t**
+**9. Divide and rule**
+- Write a script that prints the result of `POWER` divided by `DIVIDE`, followed by a new line.
+    - `POWER` and `DIVIDE` are environment variables
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x03-shell_variables_expansions`
-    - File: ``
+    - File: `9-divide_and_rule`
 ---
 #### 10
 ###### [Table of Contents](#table-of-contents)
