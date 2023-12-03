@@ -16,7 +16,7 @@
 	- [8. Save current state of directory](#8)
 	- [9. Duplicate last line](#9)
 	- [10. No more javascript](#10)
-	- [](#11)
+	- [11. Don't just count your directories, make your directories count](#11)
 	- [](#12)
 	- [](#13)
 	- [](#14)
@@ -175,13 +175,17 @@
 ---
 #### 11
 ###### [Table of Contents](#table-of-contents)
-**t**
+**11. Don't just count your directories, make your directories count**
+- Write a script that counts the number of directories and sub-directories in the current directory.
+	- The current and parent directories should not be taken into account
+	- Hidden directories should be counted
+
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: ``
+    - File: `11-directories`
 ---
 #### 12
 ###### [Table of Contents](#table-of-contents)
