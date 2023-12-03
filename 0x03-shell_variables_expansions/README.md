@@ -16,7 +16,7 @@
 	- [8. Every addition to true knowledge is an addition to human power](#8)
 	- [9. Divide and rule](#9)
 	- [10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath](#10)
-	- [](#11)
+	- [11. There are 10 types of people in the world -- Those who understand binary, and those who don't](#11)
 	- [](#12)
 	- [](#13)
 	- [](#14)
@@ -173,13 +173,16 @@
 ---
 #### 11
 ###### [Table of Contents](#table-of-contents)
-**t**
+**11. There are 10 types of people in the world -- Those who understand binary, and those who don't**
+- Write a script that converts a number from base 2 to base 10.
+    - The number in base 2 is stored in the environment variable `BINARY`
+    - The script should display the number in base 10, followed by a new line
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x03-shell_variables_expansions`
-    - File: ``
+    - File: `11-binary_to_decimal`
 ---
 #### 12
 ###### [Table of Contents](#table-of-contents)
