@@ -9,7 +9,7 @@
 	- [1. Hello you](#1)
 	- [2. The path to success is to take massive, determined action](#2)
 	- [3. If the path be beautiful, let us not ask where it leads](#3)
-	- [](#4)
+	- [4. Global variables](#4)
 	- [](#5)
 	- [](#6)
 	- [](#7)
@@ -89,13 +89,14 @@
 ---
 #### 4
 ###### [Table of Contents](#table-of-contents)
-**t**
+**4. Global variables**
+- Create a script that lists environment variables.
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x03-shell_variables_expansions`
-    - File: ``
+    - File: `4-global_variables`
 ---
 #### 5
 ###### [Table of Contents](#table-of-contents)
