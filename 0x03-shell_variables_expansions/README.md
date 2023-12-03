@@ -18,7 +18,7 @@
 	- [10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath](#10)
 	- [11. There are 10 types of people in the world -- Those who understand binary, and those who don't](#11)
 	- [12. Combination](#12)
-	- [](#13)
+	- [13. Floats](#13)
 	- [](#14)
 	- [](#15)
 	- [](#16)
@@ -202,13 +202,15 @@
 ---
 #### 13
 ###### [Table of Contents](#table-of-contents)
-**t**
+**13. Floats**
+- Write a script that prints a number with two decimal places, followed by a new line.
+	- The number will be stored in the environment variable `NUM`.
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x03-shell_variables_expansions`
-    - File: ``
+    - File: `13-print_float`
 ---
 #### 14
 ###### [Table of Contents](#table-of-contents)
