@@ -10,7 +10,7 @@
 	- [2. The path to success is to take massive, determined action](#2)
 	- [3. If the path be beautiful, let us not ask where it leads](#3)
 	- [4. Global variables](#4)
-	- [](#5)
+	- [5. Local variables](#5)
 	- [](#6)
 	- [](#7)
 	- [](#8)
@@ -100,13 +100,14 @@
 ---
 #### 5
 ###### [Table of Contents](#table-of-contents)
-**t**
+**5. Local variables**
+- Create a script that lists all local variables and environment variables, and functions.
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x03-shell_variables_expansions`
-    - File: ``
+    - File: `5-local_variables`
 ---
 #### 6
 ###### [Table of Contents](#table-of-contents)
