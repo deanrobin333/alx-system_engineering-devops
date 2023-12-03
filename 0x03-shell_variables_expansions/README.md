@@ -15,7 +15,7 @@
 	- [7. Global variable](#7)
 	- [8. Every addition to true knowledge is an addition to human power](#8)
 	- [9. Divide and rule](#9)
-	- [](#10)
+	- [10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath](#10)
 	- [](#11)
 	- [](#12)
 	- [](#13)
@@ -160,13 +160,16 @@
 ---
 #### 10
 ###### [Table of Contents](#table-of-contents)
-**t**
+**10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath**
+- Write a script that displays the result of `BREATH` to the power `LOVE`
+    - `BREATH` and `LOVE` are environment variables
+    - The script should display the result, followed by a new line
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x03-shell_variables_expansions`
-    - File: ``
+    - File: `10-love_exponent_breath`
 ---
 #### 11
 ###### [Table of Contents](#table-of-contents)
