@@ -14,7 +14,7 @@
 	- [6. Line #2](#6)
 	- [7. It is a good file that cuts iron without making a noise](#7)
 	- [8. Save current state of directory](#8)
-	- [](#9)
+	- [9. Duplicate last line](#9)
 	- [](#10)
 	- [](#11)
 	- [](#12)
@@ -152,13 +152,15 @@
 ---
 #### 9
 ###### [Table of Contents](#table-of-contents)
-**t**
+**9. Duplicate last line**
+- Write a script that duplicates the last line of the file `iacta`
+    - The file `iacta` will be in the working directory
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: ``
+    - File: `9-duplicate_last_line`
 ---
 #### 10
 ###### [Table of Contents](#table-of-contents)
