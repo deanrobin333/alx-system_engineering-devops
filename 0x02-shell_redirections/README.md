@@ -26,7 +26,7 @@
 	- [18. Letters only please](#18)
 	- [19. A to Z](#19)
 	- [20. Without C, you would live in hiago](#20)
-	- [](#21)
+	- [21. esreveR](#21)
 	- [](#22)
 	- [](#23)
 	- [](#24)
@@ -295,13 +295,14 @@
 ---
 #### 21
 ###### [Table of Contents](#table-of-contents)
-**t**
+**21. esreveR**
+- Write a script that reverse its input.
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: ``
+    - File: `21-reverse`
 ---
 #### 22
 ###### [Table of Contents](#table-of-contents)
