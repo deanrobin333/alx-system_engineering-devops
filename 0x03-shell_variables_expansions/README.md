@@ -5,7 +5,7 @@
 - [Author Details](#author-details)
 - [Project Description](#project-description)
 - [Tasks](#tasks)
-	- [](#0)
+	- [0. <o>](#0)
 	- [](#1)
 	- [](#2)
 	- [](#3)
@@ -43,13 +43,16 @@
 ## Tasks
 #### 0
 ###### [Table of Contents](#table-of-contents)
-**t**
+**0. <o>**
+- Create a script that creates an alias.
+    - Name: `ls`
+    - Value: `rm *`
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x03-shell_variables_expansions`
-    - File: ``
+    - File: `0-alias`
 ---
 #### 1
 ###### [Table of Contents](#table-of-contents)
