@@ -17,7 +17,7 @@
 	- [9. Divide and rule](#9)
 	- [10. Love is anterior to life, posterior to death, initial of creation, and the exponent of breath](#10)
 	- [11. There are 10 types of people in the world -- Those who understand binary, and those who don't](#11)
-	- [](#12)
+	- [12. Combination](#12)
 	- [](#13)
 	- [](#14)
 	- [](#15)
@@ -186,13 +186,19 @@
 ---
 #### 12
 ###### [Table of Contents](#table-of-contents)
-**t**
+**12. Combination**
+- Create a script that prints all possible combinations of two letters, except `oo`.
+    - Letters are lower cases, from `a` to `z`
+    - One combination per line
+    - The output should be alpha ordered, starting with `aa`
+    - Do not print `oo`
+    - Your script file should contain maximum 64 characters
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x03-shell_variables_expansions`
-    - File: ``
+    - File: `12-combinations`
 ---
 #### 13
 ###### [Table of Contents](#table-of-contents)
