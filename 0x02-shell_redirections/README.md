@@ -17,7 +17,7 @@
 	- [9. Duplicate last line](#9)
 	- [10. No more javascript](#10)
 	- [11. Don't just count your directories, make your directories count](#11)
-	- [](#12)
+	- [12. What’s new](#12)
 	- [](#13)
 	- [](#14)
 	- [](#15)
@@ -189,13 +189,17 @@
 ---
 #### 12
 ###### [Table of Contents](#table-of-contents)
-**t**
+**12. What’s new**
+- Create a script that displays the 10 newest files in the current directory.
+- Requirements:
+	- One file per line
+	- Sorted from the newest to the oldest
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: ``
+    - File: `12-newest_files`
 ---
 #### 13
 ###### [Table of Contents](#table-of-contents)
