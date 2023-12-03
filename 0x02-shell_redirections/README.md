@@ -20,7 +20,7 @@
 	- [12. What’s new](#12)
 	- [13. Being unique is better than being perfect](#13)
 	- [14. It must be in that file](#14)
-	- [](#15)
+	- [15. Count that word](#15)
 	- [](#16)
 	- [](#17)
 	- [](#18)
@@ -228,13 +228,14 @@
 ---
 #### 15
 ###### [Table of Contents](#table-of-contents)
-**t**
+**15. Count that word**
+- Display the number of lines that contain the pattern “bin” in the file `/etc/passwd`
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: ``
+    - File: `15-countthatword`
 ---
 #### 16
 ###### [Table of Contents](#table-of-contents)
