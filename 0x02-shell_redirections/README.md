@@ -31,7 +31,7 @@
 	- [23. Empty casks make the most noise](#23)
 	- [24. A gif is worth ten thousand words](#24)
 	- [25. Acrostic](#25)
-	- [](#26)
+	- [26. The biggest fan](#26)
 ---
 ## Author Details
 - *Dean Robin Otsyeno - deanrobin777@gmail.com*
@@ -367,13 +367,31 @@
 ---
 #### 26
 ###### [Table of Contents](#table-of-contents)
-**t**
+**26. The biggest fan**
+- Write a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
+    - Order by number of requests, most active host or IP at the top
+
+    - You are not allowed to use `grep`, `egrep`, `fgrep` or `rgrep`
+
+- Format:
+	```
+	host    When possible, the hostname making the request. Uses the IP address if the hostname was unavailable.
+	logname Unused, always -
+	time    In seconds, since 1970
+	method  HTTP method: GET, HEAD, or POST
+	url Requested path
+	response    HTTP response code
+	bytes   Number of bytes in the reply
+	```
+
+- [Here is an example with one day of logs of the NASA website (1995).](./nasa_19950801.tsv)
+
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x02-shell_redirections`
-    - File: ``
+    - File: `103-the_biggest_fan`
 ---
 
 
