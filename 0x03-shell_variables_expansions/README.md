@@ -21,7 +21,7 @@
 	- [13. Floats](#13)
 	- [14. Decimal to Hexadecimal](#14)
 	- [15. Everyone is a proponent of strong encryption](#15)
-	- [](#16)
+	- [16. The eggs of the brood need to be an odd number](#16)
 	- [](#17)
 ---
 ## Author Details
@@ -237,13 +237,14 @@
 ---
 #### 16
 ###### [Table of Contents](#table-of-contents)
-**t**
+**16. The eggs of the brood need to be an odd number**
+- Write a script that prints every other line from the input, starting with the first line.
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x03-shell_variables_expansions`
-    - File: ``
+    - File: `102-odd`
 ---
 #### 17
 ###### [Table of Contents](#table-of-contents)
