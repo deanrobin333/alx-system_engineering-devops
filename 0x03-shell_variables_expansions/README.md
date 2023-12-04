@@ -22,7 +22,7 @@
 	- [14. Decimal to Hexadecimal](#14)
 	- [15. Everyone is a proponent of strong encryption](#15)
 	- [16. The eggs of the brood need to be an odd number](#16)
-	- [](#17)
+	- [17. I'm an instant star. Just add water and stir.](#17)
 ---
 ## Author Details
 - *Dean Robin Otsyeno - deanrobin777@gmail.com*
@@ -248,13 +248,17 @@
 ---
 #### 17
 ###### [Table of Contents](#table-of-contents)
-**t**
+**17. I'm an instant star. Just add water and stir.**
+- Write a shell script that adds the two numbers stored in the environment variables `WATER` and `STIR` and prints the result.
+    - `WATER` is in base `water`
+    - `STIR` is in base `stir.`
+    - The result should be in base `bestchol`
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x03-shell_variables_expansions`
-    - File: ``
+    - File: `103-water_and_stir`
 ---
 
 
