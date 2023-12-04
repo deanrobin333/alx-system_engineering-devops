@@ -20,7 +20,7 @@
 	- [12. Combination](#12)
 	- [13. Floats](#13)
 	- [14. Decimal to Hexadecimal](#14)
-	- [](#15)
+	- [15. Everyone is a proponent of strong encryption](#15)
 	- [](#16)
 	- [](#17)
 ---
@@ -226,13 +226,14 @@
 ---
 #### 15
 ###### [Table of Contents](#table-of-contents)
-**t**
+**15. Everyone is a proponent of strong encryption**
+- Write a script that encodes and decodes text using the rot13 encryption. Assume ASCII.
 
 <br></br>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x03-shell_variables_expansions`
-    - File: ``
+    - File: `101-rot13`
 ---
 #### 16
 ###### [Table of Contents](#table-of-contents)
