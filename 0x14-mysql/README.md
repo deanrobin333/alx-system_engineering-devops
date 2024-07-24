@@ -44,8 +44,6 @@ ubuntu@229-web-01:~$
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x14-mysql`
-    - File: [`4-mysql_configuration_primary`](./4-mysql_configuration_primary)
-    - File: [`4-mysql_configuration_replica`](./4-mysql_configuration_replica)
 ---
 #### 1
 ###### [Table of Contents](#table-of-contents)
@@ -107,7 +105,6 @@ ubuntu@229-web-01:~$
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x14-mysql`
-    - File: [``](./)
 ---
 #### 3
 ###### [Table of Contents](#table-of-contents)
@@ -141,7 +138,6 @@ ubuntu@229-web-01:~$
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x14-mysql`
-    - File: [``](./)
 ---
 #### 4
 ###### [Table of Contents](#table-of-contents)
@@ -269,7 +265,8 @@ mysql>
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x14-mysql`
-    - File: [``](./)
+    - File: [`4-mysql_configuration_primary`](./4-mysql_configuration_primary)
+    - File: [`4-mysql_configuration_replica`](./4-mysql_configuration_replica)
 ---
 #### 5
 ###### [Table of Contents](#table-of-contents)
@@ -354,7 +351,7 @@ ubuntu@03-web-01:~$
 - Repo
     - GitHub repository: `alx-system_engineering-devops`
     - Directory: `0x14-mysql`
-    - File: [``](./)
+    - File: [`5-mysql_backup`](./5-mysql_backup)
 ---
 
 
