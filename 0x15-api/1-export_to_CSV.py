@@ -5,12 +5,15 @@
 
 import json
 import requests
-from sys import agv
+from sys import argv
 
 web_url = 'https://jsonplaceholder.typicode.com'
+
+
 def export_csv():
     '''function that exports employee information to csv'''
-    user_id = sys.argv[1]
+
+    user_id = argv[1]
 
     # get user info e.g https://jsonplaceholder.typicode.com/users/1/
     user_url = '{}/users?id={}'.format(web_url, user_id)
@@ -53,4 +56,4 @@ def export_csv():
 
 
 if __name__ == ('__main__'):
-    export_csv():
+    export_csv()
