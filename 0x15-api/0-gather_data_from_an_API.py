@@ -34,7 +34,7 @@ def run_api():
 
     # get user info about todo tasks
     # e.g https://jsonplaceholder.typicode.com/users/1/todos
-    tasks_url = '{}/todos?userId={}'.format(base_url, user_id)
+    tasks_url = '{}/todos?userId={}'.format(web_url, user_id)
     # print("tasks url is: {}".format(tasks_url))
 
     # get info from api
