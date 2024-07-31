@@ -6,7 +6,6 @@
 TODO list progress
 '''
 
-import json
 import requests
 from sys import argv
 
@@ -26,7 +25,7 @@ def run_api():
     # pull data from api
     data = response.text
     # parse the data into JSON format
-    data = json.loads(data)
+    data = response.json()
     # extract user data, in this case, name of employee
     name = data[0].get('name')
     # print("id is: {}".format(user_id))
@@ -42,7 +41,7 @@ def run_api():
     # pull data from api
     tasks = response.text
     # parse the data into JSON format
-    tasks = json.loads(tasks)
+    tasks = response.json()
 
     # initialize completed count as 0 and find total number of tasks
     completed = 0
