@@ -22,8 +22,10 @@
 	- [16. 0x0E. Web stack debugging #1](#16)
 	- [17. 0x10. HTTPS SSL](#17)
 	- [18. 0x11. What happens when you type google.com in your browser and press Enter](#18)
-	- [19. ](#19)
+	- [19. 0x13. Firewall](#19)
 	- [20. ](#20)
+	- [21. ](#21)
+	- [22. ](#22)
 ---
 ## Author Details
 - *Dean Robin Otsyeno - deanrobin777@gmail.com*
@@ -404,7 +406,9 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 ---
 #### 19
 ###### [Table of Contents](#table-of-contents)
-### [19. ](./)
+### [19. 0x13. Firewall](./0x13-firewall)
+- Containers on demand cannot be used for this project (Docker container limitation)
+- Be very careful with firewall rules! For instance, if you ever deny port 22/TCP and log out of your server, you will not be able to reconnect to your server via SSH, and we will not be able to recover it. When you install UFW, port 22 is blocked by default, so you should unblock it immediately before logging out of your server.
 
 ---
 #### 20
