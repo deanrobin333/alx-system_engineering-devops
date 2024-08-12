@@ -192,10 +192,10 @@
 - Examples:
 
 	- Not passing `Shellcheck`:  
-<br/>![](:/2af10f44377a433ebc618b9ea306a8bc)
+<br/>![](./images/0x04-loops_conditions_and_parsing_shellcheck1.png)
 
 	- Passing `Shellcheck`:  
-<br/>![](:/6f53245cacee4dfaa18f321eae6c8c1b)
+<br/>![](./images/0x04-loops_conditions_and_parsing_shellcheck2.png)
 
 - For every feedback, Shellcheck will provide a code that you can use to get more information about the issue, for example for code `SC2034`, you can browse [https://github.com/koalaman/shellcheck/wiki/SC2034](https://github.com/koalaman/shellcheck/wiki/SC2034 "https://github.com/koalaman/shellcheck/wiki/SC2034").
 
