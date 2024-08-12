@@ -6,9 +6,11 @@
 	- [0. 0x00. Shell, basics](#0)
 	- [1. 0x01. Shell, permissions](#1)
 	- [2. 0x02. Shell, I/O Redirections and filters](#2)
-	- [3. 
-0x03. Shell, init files, variables and expansions](#3)
-	- [4. ](#4)
+	- [3. 0x03. Shell, init files, variables and expansions](#3)
+	- [4. 0x04. Loops, conditions and parsing](#4)
+	- [5. ](#5)
+	- [6. ](#6)
+	- [7. ](#7)
 ---
 ## Author Details
 - *Dean Robin Otsyeno - deanrobin777@gmail.com*
@@ -171,7 +173,46 @@
 ---
 #### 4
 ###### [Table of Contents](#table-of-contents)
-### [4. ](./)
+### [4. 0x04. Loops, conditions and parsing](./0x04-loops_conditions_and_parsing)
+- How to create SSH keys
+- What is the advantage of using `#!/usr/bin/env bash` over `#!/bin/bash`
+- How to use `while`, `until` and `for` loops
+- How to use `if`, `else`, `elif` and `case` condition statements
+- How to use the `cut` command
+- What are files and other comparison operators, and how to use them
+
+## More Info
+
+### Shellcheck
+
+- [Shellcheck](https://github.com/koalaman/shellcheck "Shellcheck") is a tool that will help you write proper Bash scripts. It will make recommendations on your syntax and semantics and provide advice on edge cases that you might not have thought about. `Shellcheck` is your friend! **All your Bash scripts must pass `Shellcheck` without any error or you will not get any points on the task**.
+
+- `Shellcheck` is available on the school’s computers. If you want to use it on your own computer, here is how to [install it](https://github.com/koalaman/shellcheck#installing "install it").
+
+- Examples:
+
+	- Not passing `Shellcheck`:  
+<br/>![](:/2af10f44377a433ebc618b9ea306a8bc)
+
+	- Passing `Shellcheck`:  
+<br/>![](:/6f53245cacee4dfaa18f321eae6c8c1b)
+
+- For every feedback, Shellcheck will provide a code that you can use to get more information about the issue, for example for code `SC2034`, you can browse [https://github.com/koalaman/shellcheck/wiki/SC2034](https://github.com/koalaman/shellcheck/wiki/SC2034 "https://github.com/koalaman/shellcheck/wiki/SC2034").
+
+---
+#### 5
+###### [Table of Contents](#table-of-contents)
+### [5. ](./)
+
+---
+#### 6
+###### [Table of Contents](#table-of-contents)
+### [6. ](./)
+
+---
+#### 7
+###### [Table of Contents](#table-of-contents)
+### [7. ](./)
 
 ---
 
