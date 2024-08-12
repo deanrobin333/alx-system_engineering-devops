@@ -19,7 +19,7 @@
 	- [13. 0x0C. Web server](#13)
 	- [14. 0x0D. Web stack debugging #0](#14)
 	- [15. 0x0F. Load balancer](#15)
-	- [16. ](#16)
+	- [16. 0x0E. Web stack debugging #1](#16)
 	- [17. ](#17)
 	- [18. ](#18)
 ---
@@ -380,7 +380,8 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 ---
 #### 16
 ###### [Table of Contents](#table-of-contents)
-### [16. ](./)
+### [16. 0x0E. Web stack debugging #1](./0x0E-web_stack_debugging_1)
+- Network basics
 
 ---
 #### 17
