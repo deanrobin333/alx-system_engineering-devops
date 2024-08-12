@@ -13,7 +13,7 @@
 	- [7. 0x07. Networking basics #0](#7)
 	- [8. 0x08. Networking basics #1](#8)
 	- [9. 0x09. Web infrastructure design](#9)
-	- [10. ](#10)
+	- [10. Attack is the best defense](#10)
 	- [11. ](#11)
 	- [12. ](#12)
 	- [13. ](#13)
@@ -299,12 +299,28 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 ---
 #### 10
 ###### [Table of Contents](#table-of-contents)
-### [10. ](./)
+### [10. Attack is the best defense](./attack_is_the_best_defense)
+**Optional**
+- Network sniffing
+- ARP spoofing
+- Connect to SendGrid’s SMTP relay using telnet
+- What is Docker and why is it popular?
+- Dictionary attack
 
 ---
 #### 11
 ###### [Table of Contents](#table-of-contents)
 ### [11. ](./)
+
+---
+#### 12
+###### [Table of Contents](#table-of-contents)
+### [12. ](./)
+
+---
+#### 13
+###### [Table of Contents](#table-of-contents)
+### [13. ](./)
 
 ---
 
