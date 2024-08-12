@@ -18,8 +18,10 @@
 	- [12. 0x0B. SSH](#12)
 	- [13. 0x0C. Web server](#13)
 	- [14. 0x0D. Web stack debugging #0](#14)
-	- [15. ](#15)
+	- [15. 0x0F. Load balancer](#15)
 	- [16. ](#16)
+	- [17. ](#17)
+	- [18. ](#18)
 ---
 ## Author Details
 - *Dean Robin Otsyeno - deanrobin777@gmail.com*
@@ -371,12 +373,24 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 ---
 #### 15
 ###### [Table of Contents](#table-of-contents)
-### [15. ](./)
+### [15. 0x0F. Load balancer](./0x0F-load_balancer)
+- Let’s improve our web stack so that there is redundancy for our web servers. This will allow us to be able to accept more traffic by doubling the number of web servers, and to make our infrastructure more reliable. If one web server fails, we will still have a second one to handle requests.
+- For this project, you will need to write Bash scripts to automate your work. All scripts must be designed to configure a brand new Ubuntu server to match the task requirements.
 
 ---
 #### 16
 ###### [Table of Contents](#table-of-contents)
 ### [16. ](./)
+
+---
+#### 17
+###### [Table of Contents](#table-of-contents)
+### [17. ](./)
+
+---
+#### 18
+###### [Table of Contents](#table-of-contents)
+### [18. ](./)
 
 ---
 
