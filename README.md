@@ -20,8 +20,10 @@
 	- [14. 0x0D. Web stack debugging #0](#14)
 	- [15. 0x0F. Load balancer](#15)
 	- [16. 0x0E. Web stack debugging #1](#16)
-	- [17. ](#17)
+	- [17. 0x10. HTTPS SSL](#17)
 	- [18. ](#18)
+	- [19. ](#19)
+	- [20. ](#20)
 ---
 ## Author Details
 - *Dean Robin Otsyeno - deanrobin777@gmail.com*
@@ -386,7 +388,10 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 ---
 #### 17
 ###### [Table of Contents](#table-of-contents)
-### [17. ](./)
+### [17. 0x10. HTTPS SSL](./0x10-https_ssl)
+- What is HTTPS SSL 2 main roles
+- What is the purpose encrypting traffic
+- What SSL termination means
 
 ---
 #### 18
