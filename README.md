@@ -8,7 +8,7 @@
 	- [2. 0x02. Shell, I/O Redirections and filters](#2)
 	- [3. 0x03. Shell, init files, variables and expansions](#3)
 	- [4. 0x04. Loops, conditions and parsing](#4)
-	- [5. ](#5)
+	- [5. 0x05. Processes and signals](#5)
 	- [6. ](#6)
 	- [7. ](#7)
 ---
@@ -202,7 +202,17 @@
 ---
 #### 5
 ###### [Table of Contents](#table-of-contents)
-### [5. ](./)
+### [5. 0x05. Processes and signals](./0x05-processes_and_signals)
+- What is a PID
+- What is a process
+- How to find a process’ PID
+- How to kill a process
+- What is a signal
+- What are the 2 signals that cannot be ignored
+    
+## More Info
+
+- For those who want to know more and learn about all signals, check out [this article](https://www.computerhope.com/unix/signals.htm "this article").
 
 ---
 #### 6
