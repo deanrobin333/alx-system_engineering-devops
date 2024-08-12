@@ -25,7 +25,7 @@
 	- [19. 0x13. Firewall](#19)
 	- [20. 0x12. Web stack debugging #2](#20)
 	- [21. 0x14. MySQL](#21)
-	- [22. ](#22)
+	- [22. 0x15. API](#22)
 	- [23. ](#23)
 	- [24. ](#24)
 ---
@@ -432,7 +432,19 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 ---
 #### 22
 ###### [Table of Contents](#table-of-contents)
-### [22. ](./)
+### [22. 0x15. API](./0x15-api)
+- What Bash scripting should not be used for
+- What is an API
+- What is a REST API
+- What are microservices
+- What is the CSV format
+- What is the JSON format
+- Pythonic Package and module name style
+- Pythonic Class name style
+- Pythonic Variable name style
+- Pythonic Function name style
+- Pythonic Constant name style
+- Significance of CapWords or CamelCase in Python
 
 ---
 #### 23
