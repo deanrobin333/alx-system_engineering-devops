@@ -11,7 +11,7 @@
 	- [5. 0x05. Processes and signals](#5)
 	- [6. 0x06. Regular expression](#6)
 	- [7. 0x07. Networking basics #0](#7)
-	- [8. ](#8)
+	- [8. 0x08. Networking basics #1](#8)
 	- [9. ](#9)
 	- [10. ](#10)
 	- [11. ](#11)
@@ -279,7 +279,11 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 ---
 #### 8
 ###### [Table of Contents](#table-of-contents)
-### [8. ](./)
+### [8. 0x08. Networking basics #1](./0x08-networking_basics_2)
+- What is localhost/127.0.0.1
+- What is 0.0.0.0
+- What is `/etc/hosts`
+- How to display your machine’s active network interfaces
 
 ---
 #### 9
