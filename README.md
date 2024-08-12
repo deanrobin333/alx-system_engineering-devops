@@ -14,7 +14,7 @@
 	- [8. 0x08. Networking basics #1](#8)
 	- [9. 0x09. Web infrastructure design](#9)
 	- [10. Attack is the best defense](#10)
-	- [11. ](#11)
+	- [11. 0x0A. Configuration management](#11)
 	- [12. ](#12)
 	- [13. ](#13)
 ---
@@ -310,7 +310,12 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 ---
 #### 11
 ###### [Table of Contents](#table-of-contents)
-### [11. ](./)
+### [11. 0x0A. Configuration management](./0x0A-configuration_management)
+- Intro to Configuration Management
+- Puppet resource type: file (check “Resource types” for all manifest types in the left menu)
+- Puppet’s Declarative Language: Modeling Instead of Scripting
+- Puppet lint
+- Puppet emacs mode
 
 ---
 #### 12
