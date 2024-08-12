@@ -16,7 +16,7 @@
 	- [10. Attack is the best defense](#10)
 	- [11. 0x0A. Configuration management](#11)
 	- [12. 0x0B. SSH](#12)
-	- [13. ](#13)
+	- [13. 0x0C. Web server](#13)
 	- [14. ](#14)
 	- [15. ](#15)
 	- [16. ](#16)
@@ -340,7 +340,25 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 ---
 #### 13
 ###### [Table of Contents](#table-of-contents)
-### [13. ](./)
+### [13. 0x0C. Web server](./0x0C-web_server)
+### General
+
+- What is the main role of a web server
+- What is a child process
+- Why web servers usually have a parent process and child processes
+- What are the main HTTP requests
+
+### DNS
+
+- What DNS stands for
+- What is DNS main role
+
+### DNS Record Types
+
+- `A`
+- `CNAME`
+- `TXT`
+- `MX`
 
 ---
 #### 14
