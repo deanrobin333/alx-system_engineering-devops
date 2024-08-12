@@ -23,9 +23,11 @@
 	- [17. 0x10. HTTPS SSL](#17)
 	- [18. 0x11. What happens when you type google.com in your browser and press Enter](#18)
 	- [19. 0x13. Firewall](#19)
-	- [20. ](#20)
-	- [21. ](#21)
+	- [20. 0x12. Web stack debugging #2](#20)
+	- [21. 0x14. MySQL](#21)
 	- [22. ](#22)
+	- [23. ](#23)
+	- [24. ](#24)
 ---
 ## Author Details
 - *Dean Robin Otsyeno - deanrobin777@gmail.com*
@@ -413,10 +415,36 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 ---
 #### 20
 ###### [Table of Contents](#table-of-contents)
-### [20. ](./)
+### [20. 0x12. Web stack debugging #2](./0x12-web_stack_debugging_2)
+- Improving your debugging skills
+
 
 ---
+#### 21
+###### [Table of Contents](#table-of-contents)
+### [21. 0x14. MySQL](./0x14-mysql)
+- What is the main role of a database
+- What is a database replica
+- What is the purpose of a database replica
+- Why database backups need to be stored in different physical locations
+- What operation should you regularly perform to make sure that your database backup strategy actually works
 
+---
+#### 22
+###### [Table of Contents](#table-of-contents)
+### [22. ](./)
+
+---
+#### 23
+###### [Table of Contents](#table-of-contents)
+### [23. ](./)
+
+---
+#### 24
+###### [Table of Contents](#table-of-contents)
+### [24. ](./)
+
+---
 
 <br></br>
 <div align="right">
