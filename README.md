@@ -15,8 +15,11 @@
 	- [9. 0x09. Web infrastructure design](#9)
 	- [10. Attack is the best defense](#10)
 	- [11. 0x0A. Configuration management](#11)
-	- [12. ](#12)
+	- [12. 0x0B. SSH](#12)
 	- [13. ](#13)
+	- [14. ](#14)
+	- [15. ](#15)
+	- [16. ](#16)
 ---
 ## Author Details
 - *Dean Robin Otsyeno - deanrobin777@gmail.com*
@@ -320,12 +323,39 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 ---
 #### 12
 ###### [Table of Contents](#table-of-contents)
-### [12. ](./)
+### [12. 0x0B. SSH](./0x0B-ssh)
+- What is a server
+- Where servers usually live
+- What is SSH
+- How to create an SSH RSA key pair
+- How to connect to a remote host using an SSH RSA key pair
+- The advantage of using `#!/usr/bin/env bash` instead of `/bin/bash`
+
+**man or help**:
+
+- `ssh`
+- `ssh-keygen`
+- `env`
 
 ---
 #### 13
 ###### [Table of Contents](#table-of-contents)
 ### [13. ](./)
+
+---
+#### 14
+###### [Table of Contents](#table-of-contents)
+### [14. ](./)
+
+---
+#### 15
+###### [Table of Contents](#table-of-contents)
+### [15. ](./)
+
+---
+#### 16
+###### [Table of Contents](#table-of-contents)
+### [16. ](./)
 
 ---
 
