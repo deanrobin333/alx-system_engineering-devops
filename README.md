@@ -21,7 +21,7 @@
 	- [15. 0x0F. Load balancer](#15)
 	- [16. 0x0E. Web stack debugging #1](#16)
 	- [17. 0x10. HTTPS SSL](#17)
-	- [18. ](#18)
+	- [18. 0x11. What happens when you type google.com in your browser and press Enter](#18)
 	- [19. ](#19)
 	- [20. ](#20)
 ---
@@ -396,7 +396,20 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 ---
 #### 18
 ###### [Table of Contents](#table-of-contents)
-### [18. ](./)
+### [18. 0x11. What happens when you type google.com in your browser and press Enter](./0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter)
+- Being a Full-Stack Software Engineer means you’re comfortable interacting with any layer of the stack.
+- A way to easily assess this is to simply ask an engineer to explain how a software system works. They can have a general overview of the flow or can choose to dig deep in a certain area.
+- Let’s practice by exploring the infrastructure side (network, servers, security…) of the question.
+
+---
+#### 19
+###### [Table of Contents](#table-of-contents)
+### [19. ](./)
+
+---
+#### 20
+###### [Table of Contents](#table-of-contents)
+### [20. ](./)
 
 ---
 
