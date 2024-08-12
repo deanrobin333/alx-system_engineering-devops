@@ -10,7 +10,11 @@
 	- [4. 0x04. Loops, conditions and parsing](#4)
 	- [5. 0x05. Processes and signals](#5)
 	- [6. 0x06. Regular expression](#6)
-	- [7. ](#7)
+	- [7. 0x07. Networking basics #0](#7)
+	- [8. ](#8)
+	- [9. ](#9)
+	- [10. ](#10)
+	- [11. ](#11)
 ---
 ## Author Details
 - *Dean Robin Otsyeno - deanrobin777@gmail.com*
@@ -239,12 +243,48 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 ---
 #### 7
 ###### [Table of Contents](#table-of-contents)
-### [7. ](./)
+### [7. 0x07. Networking basics #0](./0x07-networking_basics)
+### OSI Model
+
+- What it is
+- How many layers it has
+- How it is organized
+
+### What is a LAN
+
+- Typical usage
+- Typical geographical size
+
+### What is a WAN
+
+- Typical usage
+- Typical geographical size
+
+### What is the Internet
+
+- What is an IP address
+- What are the 2 types of IP address
+- What is `localhost`
+- What is a subnet
+- Why IPv6 was created
+
+### TCP/UDP
+
+- What are the 2 mainly used data transfer protocols for IP (transfer level on the OSI schema)
+- What is the main difference between TCP and UDP
+- What is a port
+- Memorize SSH, HTTP and HTTPS port numbers
+- What tool/protocol is often used to check if a device is connected to a network
 
 ---
 #### 8
 ###### [Table of Contents](#table-of-contents)
 ### [8. ](./)
+
+---
+#### 9
+###### [Table of Contents](#table-of-contents)
+### [9. ](./)
 
 ---
 
