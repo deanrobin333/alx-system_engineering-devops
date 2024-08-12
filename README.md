@@ -17,7 +17,7 @@
 	- [11. 0x0A. Configuration management](#11)
 	- [12. 0x0B. SSH](#12)
 	- [13. 0x0C. Web server](#13)
-	- [14. ](#14)
+	- [14. 0x0D. Web stack debugging #0](#14)
 	- [15. ](#15)
 	- [16. ](#16)
 ---
@@ -363,7 +363,10 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 ---
 #### 14
 ###### [Table of Contents](#table-of-contents)
-### [14. ](./)
+### [14. 0x0D. Web stack debugging #0](./0x0D-web_stack_debugging_0)
+- The Webstack debugging series will train you in the art of debugging. Computers and software rarely work the way we want (that’s the “fun” part of the job!).
+- Being able to debug a webstack is essential for a Full-Stack Software Engineer, and it takes practice to be a master of it.
+- In this debugging series, broken/bugged webstacks will be given to you, the final goal is to come up with a Bash script that once executed, will bring the webstack to a working state. But before writing this Bash script, you should figure out what is going on and fix it manually.
 
 ---
 #### 15
