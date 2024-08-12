@@ -12,9 +12,11 @@
 	- [6. 0x06. Regular expression](#6)
 	- [7. 0x07. Networking basics #0](#7)
 	- [8. 0x08. Networking basics #1](#8)
-	- [9. ](#9)
+	- [9. 0x09. Web infrastructure design](#9)
 	- [10. ](#10)
 	- [11. ](#11)
+	- [12. ](#12)
+	- [13. ](#13)
 ---
 ## Author Details
 - *Dean Robin Otsyeno - deanrobin777@gmail.com*
@@ -288,7 +290,21 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 ---
 #### 9
 ###### [Table of Contents](#table-of-contents)
-### [9. ](./)
+### [9. 0x09. Web infrastructure design](./0x09-web_infrastructure_design)
+- You are tasked to come up with solutions for the tasks below yourself to meet with the above learning objectives.
+- You will not be able to meet the objectives of this or any following project by copying and pasting someone else’s work.
+- You are not allowed to publish any content of this project.
+- Any form of plagiarism is strictly forbidden and will result in removal from the program.
+
+---
+#### 10
+###### [Table of Contents](#table-of-contents)
+### [10. ](./)
+
+---
+#### 11
+###### [Table of Contents](#table-of-contents)
+### [11. ](./)
 
 ---
 
