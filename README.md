@@ -29,7 +29,8 @@
 	- [23. 0x19. Postmortem](#23)
 	- [24. 0x17. Web stack debugging #3](#24)
 	- [25. 0x16. API advanced](#25)
-	- [26. ](#26)
+	- [26. 0x18. Webstack monitoring](#26)
+	- [27. ](#27)
 ---
 ## Author Details
 - *Dean Robin Otsyeno - deanrobin777@gmail.com*
@@ -480,7 +481,16 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 ---
 #### 26
 ###### [Table of Contents](#table-of-contents)
-### [26. ](./)
+### [26. 0x18. Webstack monitoring](./0x18-webstack_monitoring)
+- Why is monitoring needed
+- What are the 2 main area of monitoring
+- What are access logs for a web server (such as Nginx)
+- What are error logs for a web server (such as Nginx)
+
+---
+#### 27
+###### [Table of Contents](#table-of-contents)
+### [27. ](./)
 
 ---
 
