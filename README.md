@@ -30,7 +30,10 @@
 	- [24. 0x17. Web stack debugging #3](#24)
 	- [25. 0x16. API advanced](#25)
 	- [26. 0x18. Webstack monitoring](#26)
-	- [27. ](#27)
+	- [27. 0x1A. Application server](#27)
+	- [28. 0x1B. Web stack debugging #4](#28)
+	- [29. ](#29)
+	- [30. ](#30)
 ---
 ## Author Details
 - *Dean Robin Otsyeno - deanrobin777@gmail.com*
@@ -490,7 +493,24 @@ sylvain@ubuntu$ ./example.rb 127.0.0.a
 ---
 #### 27
 ###### [Table of Contents](#table-of-contents)
-### [27. ](./)
+### [27. 0x1A. Application server](./0x1A-application_server)
+- While a web server can also serve dynamic content, this task is usually given to an application server. In this project you will add this piece to your infrastructure, plug it to your Nginx and make is serve your Airbnb clone project.
+
+---
+#### 28
+###### [Table of Contents](#table-of-contents)
+### [28. 0x1B. Web stack debugging #4](./0x1B-web_stack_debugging_4)
+- In this web stack debugging task, we are testing how well our web server setup featuring Nginx is doing under pressure and it turns out it’s not doing well
+
+---
+#### 29
+###### [Table of Contents](#table-of-contents)
+### [29. ](./)
+
+---
+#### 30
+###### [Table of Contents](#table-of-contents)
+### [30. ](./)
 
 ---
 
