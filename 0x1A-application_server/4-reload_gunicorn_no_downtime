@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 # Script to restart gunicorn service graceful
 #pkill -HUP gunicorn
 pgrep gunicorn | xargs kill -HUP
