@@ -1,7 +1,5 @@
 #!/usr/bin/env bash
-
 # script that displays the content of the file /etc/passwd, using the while loop + IFS.
-
 
 while IFS=":" read -r USERNAME PASSWORD USER_ID GROUP_ID FULLNAME HOME_DIRECTORY SHELL; do
     echo "The user $USERNAME is part of the $GROUP_ID gang, " \
