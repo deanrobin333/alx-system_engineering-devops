@@ -5,5 +5,4 @@
 #   info=$(awk 'NR==1 {print NF}' apache-access.log)
 #   awk -v limit="$info" 'NR==1 {for(i=1; i<=limit; i++) print i "**" $i}' apache-access.log
 
-awk '{print $1 " "$9}' apache-access.log
-
+awk '{print $1, $9}' apache-access.log
