@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+# script that displays the visitor IP along with the HTTP status code from the Apache log file
+
+# These next 2 codes helped me get the field value of each column
+#   info=$(awk 'NR==1 {print NF}' apache-access.log)
+#   awk -v limit="$info" 'NR==1 {for(i=1; i<=limit; i++) print i "**" $i}' apache-access.log
+
+awk '{print $1 " "$9}' apache-access.log
+
