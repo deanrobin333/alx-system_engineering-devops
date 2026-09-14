@@ -17,7 +17,6 @@ echo $(pgrep -f $0) > $file_name
 
 while true; do
     echo "To infinity and beyond"
-    sleep 2
     trap 'echo "I hate the kill command"; rm $file_name; exit' SIGTERM
     trap 'echo "Y U no love me?!"' SIGINT
     trap 'rm $file_name; exit' SIGQUIT
