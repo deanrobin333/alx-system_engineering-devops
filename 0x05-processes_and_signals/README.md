@@ -462,8 +462,6 @@ To infinity and beyond
 ###### [Table of Contents](#table-of-contents)
 **10. Manage my process**
 
-- 
-
 - Read:
     - [&](https://bashitout.com/2013/05/18/Ampersands-on-the-command-line.html "&")
     - [init.d](https://ghacks.net/2009/04/04/get-to-know-linux-the-etcinitd-directory/ "init.d")
